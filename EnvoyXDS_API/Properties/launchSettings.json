@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "EnvoyXDS_API": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": "true",
+      "applicationUrl": "https://127.0.0.1:5550;"
+    }
+  }
+}
